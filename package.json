@@ -1,0 +1,16 @@
+{
+  "name": "bate-papo-server",
+  "version": "0.0.1",
+  "description": "Bate Papo Server",
+  "author": "Antonio Mendes",
+  "license": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "supertest": "^4.0.2"
+  }
+}
